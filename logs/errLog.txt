@@ -1,0 +1,10 @@
+20231110	16:50:52	dde4dfb0-d9d4-4cbe-9c6d-bf218b6c05a9	Error: Not allowed by CORS
+20231110	16:51:02	64c55c72-569b-4e8f-8205-ba1dff9f947e	Error: Not allowed by CORS
+20231110	16:51:51	c87b73e6-8610-4235-a60a-bff304377a3e	Error: Not allowed by CORS
+20231110	16:51:52	ace2e53f-ad95-42d6-9395-700034b75525	Error: Not allowed by CORS
+20231110	16:51:52	193aba7a-2523-4387-9712-21ccf3a902cc	Error: Not allowed by CORS
+20231110	16:51:52	793c075e-e4ab-4331-9323-40885ddd3663	Error: Not allowed by CORS
+20231110	16:51:52	b1133387-2e1c-433c-aee6-0b771e19bceb	Error: Not allowed by CORS
+20231110	16:51:52	a5a16d58-09ff-478d-8f0b-2d2a71d5e6fe	Error: Not allowed by CORS
+20231110	16:51:53	4aef3341-7591-4764-bd46-840aa479599f	Error: Not allowed by CORS
+20231110	17:11:53	5eaf7359-d784-407a-9aba-8e5ea176ff6d	Error: ENOENT: no such file or directory, stat 'C:\Users\anilp\OneDrive\Masaüstü\Development\Express-Tutorial\nodejs_web_server\routes\views\new-page.html'
