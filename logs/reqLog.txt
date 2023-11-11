@@ -60,3 +60,6 @@
 20231111	16:59:25	f98fe8d3-ac82-47f9-b86f-57b5fdb22f70	GET	undefined	/employees/2
 20231111	16:59:34	76b9c819-e66f-4351-a738-9440b4d3c156	GET	undefined	/employees/1
 20231111	17:00:40	a04f1a94-ad6d-4859-93c2-a7cb33a19ff7	GET	undefined	/employees/1
+20231111	20:40:40	4e380c66-d6b7-4693-9366-04340221ad92	POST	undefined	/register
+20231111	20:41:19	b3db24ea-a669-41ed-bec8-99ff671842f1	POST	undefined	/register
+20231111	20:48:42	88950720-54e8-4aca-9a86-c6ef49e36fbe	POST	undefined	/auth
